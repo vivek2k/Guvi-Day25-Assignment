@@ -1,0 +1,32 @@
+.todo-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: #57c786;
+  }
+  
+  .button-container button {
+    margin-right: 8px;
+  }
+  
+.taskInput {
+  margin: 50px;
+}
+
+.taskDesc{
+  margin: 50px;
+}
+  
+.not {
+  border-color: #f00;
+}
+
+.completed {
+  border-color: #0f0;
+}
